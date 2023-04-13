@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gerontology"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: blog
+        href: blog.qmd
+      - text: Programs
+        href: programs.qmd
+      - text: Page2
+        href: page2.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: 
+      light: pulse
+      dark: vapor
+    css: styles.css
+
+
