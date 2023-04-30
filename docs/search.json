@@ -1,38 +1,45 @@
 [
   {
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "What is AMD?",
+    "section": "",
+    "text": "Age-related macular degeneration is an eye-disease that can develop over time and causes blurring in your central vision. It is the most common reason for vision loss in older adults.\n\n\n\nDiagram of the eye showing the macula\n\n\nThe macula is part of the retina (the back part of your eye) that is responsible for seeing straight ahead and viewing sharp shapes such as reading text, watching television, or driving. In macular degeneration, the tissue of the retina is pulled away from the back of the eye, causing vision issues. This can occur in two ways through either the build up of small plaques of fatty proteins or pooling of blood from small vessels. As the retina tissue is pulled away from the back of the eye, the light-sensitive cells called rods and cones are damaged, leading to vision loss.\n\n\n\n\n\n\n\n(a) Dry AMD\n\n\n\n\n\n\n\n(b) Wet AMD\n\n\n\n\nFigure 1: Forms of AMD shown through retinal imaging\n\n\nAMD had two forms: dry age-related macular degeneration (also known as atrophic AMD) and wet age-related macular degeneration (or advanced neovascular AMD).\n\nDry AMD has 3 stages – early, intermediate, and late – and can develop over years.Over time, the cells that make up the tissues in the body are broken down due to the “wear and tear” of light. Small plaques made from the cells’ membranes (called drusen) build up between the layers of the retina tissue and cut off the rod and cone cells from their blood supply. The small, light yellow spots on the retinal image in Figure 1 (a) are drusens that have built up under the macula.\nWet AMD occurs when blood vessels grow below the macular tissuetissue pulling the macular tissue away from the back of the eye similar to drusens. Fluid leaks from these new blood vessels and pull the layers of the retina apart. This form is more advanced and damaging compared to the dry AMD. Figure 1 (b) shows blood gathering under the macula along with a few drusens.\n\nImage sources: https://my.clevelandclinic.org/health/body/23185-macula https://www.optos.com/recognizing-pathology/case-studies/age-related-macular-degeneration4/ https://med.stanford.edu/news/all-news/2014/11/retinal-scan-analysis-can-predict-advance-of-macular-degeneratio.html"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "SaraBenist-Gerontology",
+    "title": "Macular Degeneration",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 13, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Learn more about Age-related Macular Degeneration by clicking on the posts below.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "diagnosis.html",
+    "href": "diagnosis.html",
+    "title": "Diagnosis & Treatment",
+    "section": "",
+    "text": "Signs and symptoms of AMD\nA majority of people living with AMD will have little to no symptoms in the early and intermediate stages of the disease. In late AMD, vision issues will begin to occur. Early symptoms of late stage AMD in either form include straight lines will begin to look crooked or wavy, blurred areas will occur in the center of your vision, and you may have difficulty seeing in low lighting.\n\n\nDiagnosis\nThe most common way your eye doctor will diagnose AMD is by using pupil dilation or retinal imaging to see your retina. The presence of drusen is a common marker for dry age-related macular degeneration. Another common screening test you can use is an Amsler grid. Instructions for using the Amsler grid can be found here.\n\n\n\nFigure 1: Amsler grid for AMD screening\n\n\n\n\nTreatment\nEarly stages of AMD have no treatment. At this stage, the disease is slow growing and produces no symptoms, so eye doctors will monitor the development of drusens rather than directly treating the disease. Diet, exercise, and supplements may help slow the progression into intermediate stage.\nSince wet AMD is caused by the growth of new blood vessels, injections of medication can be used to reduce vision loss. Anti-VEGF (anti-vascular endothelial growth factor) can be injected into the eye to stop the production of new blood vessels in the retina. However, treatment for wet AMD is effective if the disease is caught early.\nAlthough age-related macular degeneration is progressive, there is no guarantee late AMD will develop in one or both eyes. With any vision loss caused by AMD, complete blindness is uncommon since only central vision is affected. However, any vision impairment is likely to be permanent. Low vision can make daily tasks such as reading, driving, or recognizing faces difficult, but low vision aids and rehabilitation exercises can help you adjust to living with AMD. Learn more about low vision resources here."
+  },
+  {
+    "objectID": "epidemiology.html",
+    "href": "epidemiology.html",
+    "title": "Who is at risk of AMD?",
+    "section": "",
+    "text": "Approximately 19.8 million people over the age of 40 in the US had AMD in 2019. 8 out of 10 AMD cases have the dry form which slowly forms over several years and may be without symptoms. AMD is more common as age increases, and almost half of people over 85 have age-related macular degeneration.\n\n\n\n\n\nFigure 1: Percentage of 2019 US residents with AMD by stage and age group\n\n\n\n\n\nNon-hispanic Black populations are at lowest risk for developing AMD, and Non-hispanic White populations are twice as likely to develop AMD.\n\n\n\nFigure 2: Percentage of 2019 US residents with AMD by sex and race/ethnicity\n\n\nAMD is not more or less common based on geographic areas."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "My name is Sara Benist."
+    "text": "My name is Sara Benist, and this is my website for learning more about Age-related Macular Degeneration. I am an Masters of Public Health student at the University of Georgia, and this website is my final project for Foundations of Aging (GRNT 7100E). Please visit the tabs to learn more about the disease and how it relates to you."
   },
   {
-    "objectID": "page2.html",
-    "href": "page2.html",
-    "title": "Tester",
+    "objectID": "prevention.html",
+    "href": "prevention.html",
+    "title": "Prevention",
     "section": "",
-    "text": "another page"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "An ounce of prevention is worth a pound of cure - Benjamin Franklin\n\nPrevention of AMD\nThe process of developing age-related macular degeneration is not fully understood. Like many diseases, genetic and environmental factors can increase the risk of developing AMD. While genetic factors such as race and age cannot be prevented, several actions can be taken to address environmental factors.\nAnnual eye exams – Annual eye exams will help you and your doctor catch early AMD to monitor the development of drusen. If caught early, wet AMD can be treated to prevent excessive vision loss.\nLifestyle changes – Smoking and having high cholesterol and blood pressure increases the risk of developing AMD. Smokers are four times as likely to develop AMD compared to non-smokers. Quitting smoking reduces the risk of developing AMD to slightly higher than people who have never smoked, showing that smoking cessation is an important prevention method.\nSun protection – Ultraviolet light (or UV rays) damages the retinal tissue. It is relatively accepted that light rays (both from the sun and blue light from screens and monitors) damage the tissues of the eye and lead to the formation of drusen. Melanin is the body’s natural sun protectant, and as age increases, melanin production slows. Wearing sun glasses while outside and in bright light helps replace the missing protection against UV rays.\nNutrition – Eating a well-balanced diet is a major preventative measure against developing AMD and preventing vision loss. When high energy light rays hit the retina, small, high energy particles bounce around the retina tissue causing damage. This process is known as oxidative stress. The body is set up to handle a certain amount of damage by regulating the oxidative stress with antioxidants. We consume antioxidants through food such as vegetables, fruit, dark leafy greens, nuts, and fish. By eating antioxidant-rich foods, the body can better repair the damage caused by oxidative stress. As the saying goes, “You are what you eat!”\n\n\nVitamins, Minerals, and Preventing AMD\nWhile it is not fully understood, researchers predict there is a link between specific vitamins and minerals and preventing vision impairment from age-related macular degeneration. Currently, the treatment for intermediate and late stages of AMD is prescribing an antioxidant supplement supported by the large clinical trial AgeRelated Eye Disease Study (AREDS). The supplement contains lutein, zeaxanthin, vitamin C, vitamin E, and zinc along with other substances that help with absorption. The study found that the supplement slowed the progression of AMD by approximately 25%. However, further studies on the supplements to improve eye-related diseases have produced mixed results because antioxidants and nutrients tend to work best in combination with other substances and chemicals found in the original food source. The risks and benefits of taking the AREDS supplement should be discussed with your doctor before using the supplement.\nOne alternative to the supplement is following the Mediterranean diet (after consulting with your doctor). The Mediterranean diet consists of primarily eating vegetables, fruit, beans, whole grains, extra virgin olive oil and fish. Little to no red meat, poultry, sugar, and butter are recommended. It is also one of the only scientifically-proven diets to reduce your risk of cardiovascular disease, diabetes, and hypertension. Eye health can significantly be protected and improved. One study found that people following the diet had a 41% reduction in risk of developing late stage AMD. Below is an example of the diet.\n\n\n\nMediterranean Diet"
   },
   {
     "objectID": "programs.html",

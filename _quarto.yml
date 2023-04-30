@@ -8,21 +8,22 @@ website:
     right:
       - text: Home
         href: index.qmd
-      - text: blog
-        href: blog.qmd
-      - text: Programs
-        href: programs.qmd
-      - text: Page2
-        href: page2.qmd
+      - text: Background
+        href: background.qmd
+      - text: Epidemiology
+        href: epidemiology.qmd
+      - text: Diagnosis & Treatment
+        href: diagnosis.qmd
+      - text: Prevention
+        href: prevention.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/SarBen811/gerontology
 format:
   html:
     theme: 
-      light: pulse
-      dark: vapor
+      light: cerulean
+      dark: cyborg
     css: styles.css
+bibliography: references.bib
 
 

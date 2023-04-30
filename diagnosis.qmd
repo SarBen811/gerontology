@@ -1,0 +1,22 @@
+---
+title: "Diagnosis & Treatment"
+author: "Sara Benist"
+---
+
+# Signs and symptoms of AMD
+
+A majority of people living with AMD will have little to no symptoms in the early and intermediate stages of the disease. In late AMD, vision issues will begin to occur. Early symptoms of late stage AMD in either form include straight lines will begin to look crooked or wavy, blurred areas will occur in the center of your vision, and you may have difficulty seeing in low lighting.
+
+# Diagnosis 
+
+The most common way your eye doctor will diagnose AMD is by using pupil dilation or retinal imaging to see your retina. The presence of drusen is a common marker for dry age-related macular degeneration. Another common screening test you can use is an Amsler grid. Instructions for using the Amsler grid can be found [here](https://www.hopkinsmedicine.org/health/conditions-and-diseases/agerelated-macular-degeneration-amd). 
+
+![Amsler grid for AMD screening](images/grid.png){#fig-grid}
+
+# Treatment
+
+Early stages of AMD have no treatment. At this stage, the disease is slow growing and produces no symptoms, so eye doctors will monitor the development of drusens rather than directly treating the disease. Diet, exercise, and supplements may help slow the progression into intermediate stage.
+
+Since wet AMD is caused by the growth of new blood vessels, injections of medication can be used to reduce vision loss. Anti-VEGF (anti-vascular endothelial growth factor) can be injected into the eye to stop the production of new blood vessels in the retina. However, treatment for wet AMD is effective if the disease is caught early.
+
+Although age-related macular degeneration is progressive, there is no guarantee late AMD will develop in one or both eyes. With any vision loss caused by AMD, complete blindness is uncommon since only central vision is affected. However, any vision impairment is likely to be permanent. Low vision can make daily tasks such as reading, driving, or recognizing faces difficult, but low vision aids and rehabilitation exercises can help you adjust to living with AMD. Learn more about low vision resources [here](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/low-vision).

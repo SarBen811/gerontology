@@ -1,16 +1,16 @@
 ---
 title: "Welcome!"
-image: profile.jpg
+image: images/profile.jpg
 about:
   template: trestles
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/sara-benist-47078517a
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/SarBen811/gerontology
 
 ---
 
-My name is Sara Benist.
+My name is Sara Benist, and this is my website for learning more about Age-related Macular Degeneration. I am an Masters of Public Health student at the University of Georgia, and this website is my final project for Foundations of Aging (GRNT 7100E). Please visit the tabs to learn more about the disease and how it relates to you. 
