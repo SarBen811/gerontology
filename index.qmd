@@ -10,14 +10,25 @@ about:
     - icon: github
       text: Github
       href: https://github.com/SarBen811/gerontology
-
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
+Thank you for visiting my website! My name is Sara Benist, and I am a
+Masters of Public Health student at the University of Georgia. This
+website is my final project for Foundations of Aging (GRNT 7100E)
+intending to provide information to the public about Age-related Macular
+Degeneration. Please explore the website to learn more about the disease
+and how it relates to you!
 
+Main takeaways:
 
+-   Learn what age-related macular degeneration is.
 
+-   Learn about how common AMD is and what increases the risk of
+    developing the disease
 
-Thank you for visiting my website! My name is Sara Benist, and I am a Masters of Public Health student at the University of Georgia. This website is my final project for Foundations of Aging (GRNT 7100E) intending to provide information to the public about Age-related Macular Degeneration. Please explore the website to learn more about the disease and how it relates to you!
+-   Learn AMD is diagnosed and treated
 
-
-
+-   Learn about how to prevent and slow progression of AMD

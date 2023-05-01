@@ -3,11 +3,11 @@ title: "What is AMD?"
 author: "Sara Benist"
 ---
 
-Age-related macular degeneration is an eye-disease that can develop over time and causes blurring in your central vision. ***It is the most common reason for vision loss in older adults.***
+Age-related macular degeneration is an eye-disease that can develop over time and causes blurring in your central vision. ***It is the most common reason for vision loss in older adults.***^[https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/macular-degeneration?sso=y]
 
 ![Diagram of the eye showing the macula](images/background1.jpg){#fig-macula}
 
-The macula is part of the retina (the back part of your eye) that is responsible for seeing straight ahead and viewing sharp shapes such as reading text, watching television, or driving. In macular degeneration, the tissue of the retina is pulled away from the back of the eye, causing vision issues. This can occur in two ways through either the build up of small plaques of fatty proteins or pooling of blood from small vessels. As the retina tissue is pulled away from the back of the eye, the light-sensitive cells called rods and cones are damaged, leading to vision loss.
+The macula is part of the retina (the back part of your eye) that is responsible for seeing straight ahead and viewing sharp shapes such as reading text, watching television, or driving.^[https://www.hopkinsmedicine.org/health/conditions-and-diseases/agerelated-macular-degeneration-amd] In macular degeneration, the tissue of the retina is pulled away from the back of the eye, causing vision issues. This can occur in two ways through either the build up of small plaques of fatty proteins or pooling of blood from small vessels. As the retina tissue is pulled away from the back of the eye, the light-sensitive cells called rods and cones are damaged, leading to vision loss.^[https://www.hopkinsmedicine.org/health/conditions-and-diseases/agerelated-macular-degeneration-amd]
 
 ::: {#fig-mapping layout-ncol="2"}
 ![Dry AMD](images/dryAMD2.jpg){#fig-DryAMD width="650"}
@@ -19,12 +19,12 @@ Forms of AMD shown through retinal imaging
 
 AMD had two forms: dry age-related macular degeneration (also known as atrophic AMD) and wet age-related macular degeneration (or advanced neovascular AMD).
 
--   Dry AMD has 3 stages -- early, intermediate, and late -- and can develop over years. Over time, the cells that make up the tissues in the body are broken down due to the "wear and tear" of light. Small plaques made from the cells' membranes (called drusen) build up between the layers of the retina tissue and cut off the rod and cone cells from their blood supply. The small, light yellow spots on the retinal image in @fig-DryAMD are drusens that have built up under the macula. Approximately 80% of AMD cases are dry AMD.
+-   Dry AMD has 3 stages -- early, intermediate, and late -- and can develop over years.^[https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/macular-degeneration?sso=y] Over time, the cells that make up the tissues in the body are broken down due to the "wear and tear" of light. Small plaques made from the cells' membranes (called drusen) build up between the layers of the retina tissue and cut off the rod and cone cells from their blood supply. The small, light yellow spots on the retinal image in @fig-DryAMD are drusens that have built up under the macula. Approximately 80% of AMD cases are dry AMD.^[https://www.hopkinsmedicine.org/health/conditions-and-diseases/agerelated-macular-degeneration-amd]
 
--   Wet AMD occurs when blood vessels grow below the macular tissuetissue pulling the macular tissue away from the back of the eye similar to drusens. Fluid leaks from these new blood vessels and pull the layers of the retina apart. This form is more advanced and damaging compared to the dry AMD. @fig-WetAMD shows blood gathering under the macula along with a few drusens.
+-   Wet AMD occurs when blood vessels grow below the macular tissuetissue pulling the macular tissue away from the back of the eye similar to drusens. Fluid leaks from these new blood vessels and pull the layers of the retina apart. This form is more advanced and damaging compared to the dry AMD.^[https://www.hopkinsmedicine.org/health/conditions-and-diseases/agerelated-macular-degeneration-amd] @fig-WetAMD shows blood gathering under the macula along with a few drusens.
 
 Image sources:[^1]
 
-[^1]: https://my.clevelandclinic.org/health/body/23185-macula 
-https://www.optos.com/recognizing-pathology/case-studies/age-related-macular-degeneration4/ 
+[^1]: https://my.clevelandclinic.org/health/body/23185-macula; 
+https://www.optos.com/recognizing-pathology/case-studies/age-related-macular-degeneration4/; 
 https://med.stanford.edu/news/all-news/2014/11/retinal-scan-analysis-can-predict-advance-of-macular-degeneratio.html

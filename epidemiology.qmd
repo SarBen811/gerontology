@@ -10,7 +10,7 @@ editor:
 
 Approximately **19.8 million** people over the age of 40 in the US had
 AMD in 2019. By 2040, it is predicted that **288 million** people will
-develop AMD worldwide. Age is the most significant risk factor for
+develop AMD worldwide.^[https://www.cdc.gov/visionhealth/vehss/estimates/amd-prevalence.html] Age is the most significant risk factor for
 developing AMD, and the prevalence of AMD is expected to increase as the
 older adult population increases in the US.
 
@@ -18,26 +18,23 @@ older adult population increases in the US.
 
 Age-related macular degeneration is more common as age increases. Almost
 half of the population over 85 have age-related macular degeneration in
-the US. The prevalence of AMD by age group is shown in @fig-age.
+the US.^[https://www.cdc.gov/visionhealth/vehss/estimates/amd-prevalence.html] The prevalence of AMD by age group is shown in @fig-age.
 
 ![Percentage of 2019 US residents with AMD by stage and age
 group](images/agegraph.png){#fig-age}
 
 ## AMD and race/ethnicity
 
-Non-hispanic Black populations are at lowest risk for developing AMD,
-and Non-hispanic White populations are twice as likely to develop AMD.
-One proposed theory is that lighter irises common in Caucasians may
-provide less protection against developing AMD (see *Sun protection*
-section of Prevention page). @fig-race shows the prevalence of AMD for
-each race/ethnic group.
+Non-hispanic Black populations are at lowest risk for developing AMD,and Non-hispanic White populations are twice as likely to develop AMD. ^[https://www.cdc.gov/visionhealth/vehss/estimates/amd-prevalence.html]
+One proposed theory is that lighter irises common in Caucasians may provide less protection against developing AMD (see *Sun protection* section of Prevention page). @fig-race shows the prevalence of AMD for each race/ethnic group.
 
 ![Percentage of 2019 US residents with AMD by sex and
 race/ethnicity](images/raceethnicgraph.png){#fig-race}
 
 # Risk factors for AMD
 
-AMD is more likely to occur if you:
+AMD is more likely to occur if you:^[https://www.cdc.gov/visionhealth/resources/features/macular-degeneration.html;
+https://www.aao.org/eye-health/diseases/amd-macular-degeneration]
 
 -   have a family history of AMD
 

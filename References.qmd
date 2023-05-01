@@ -6,54 +6,57 @@ editor:
     wrap: 72
 ---
 
-1.  [Macular Degeneration - American Optometric
-    Association](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/macular-degeneration?sso=y)
-
-2.  [Age-Related Macular Degeneration - National Eye
-    Institute](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/age-related-macular-degeneration#:~:text=Age%2Drelated%20macular%20degeneration%20(AMD)%20is%20an%20eye%20disease,the%20back%20of%20the%20eye)
-
-3.  [Age-Related Macular Degeneration - John Hopkins
-    Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/agerelated-macular-degeneration-amd)
-
-4.  [Age-Related Macular Degeneration - American Academy of
+1.    [Age-Related Macular Degeneration - American Academy of
     Ophthalmology](https://www.aao.org/eye-health/diseases/amd-macular-degeneration)
 
-5.  [Age-Related Macular Degeneration Prevalence Estimates -
+2.    [Age-Related Macular Degeneration - John Hopkins
+    Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/agerelated-macular-degeneration-amd)
+
+3.    [Age-Related Macular Degeneration - National Eye
+    Institute](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/age-related-macular-degeneration#:~:text=Age%2Drelated%20macular%20degeneration%20(AMD)%20is%20an%20eye%20disease,the%20back%20of%20the%20eye)
+
+4.    [Age-related Macular Degeneration -
+    Optos](https://www.optos.com/recognizing-pathology/case-studies/age-related-macular-degeneration4/)
+
+5.    [Age-Related Macular Degeneration Prevalence Estimates -
     CDC](https://www.cdc.gov/visionhealth/vehss/estimates/amd-prevalence.html)
 
-6.  [Learn About Age-Related Macular Degeneration - Vision Health
+6.   [Antioxidant supplement in AMD - Banerjee, Chawla, and
+    Kumar](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8404659/)
+
+7.    [Antioxidants - Harvard School of Public
+    Health](https://www.hsph.harvard.edu/nutritionsource/antioxidants/#antioxidants%20in%20food)
+
+8.    [Dietary Antioxidants in AMD and Glaucoma -
+    Weber](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8614766/)
+
+9.    [Don't Smoke - American Macular Degeneration
+    Foundation](https://www.macular.org/about-macular-degeneration/risk-factors/smoking)
+
+10.   [Learn About Age-Related Macular Degeneration - Vision Health
     Initiative at
     CDC](https://www.cdc.gov/visionhealth/resources/features/macular-degeneration.html)
 
-7.  [Retinal-scan analysis to predict AMD - Stanford
-    Medicine](https://med.stanford.edu/news/all-news/2014/11/retinal-scan-analysis-can-predict-advance-of-macular-degeneratio.html)
+11.   [Living the Mediterranean Lifestyle - American Society for
+    Nutrition](https://nutrition.org/living-mediterranean-lifestyle/)
 
-8.  [Age-related Macular Degeneration -
-    Optos](https://www.optos.com/recognizing-pathology/case-studies/age-related-macular-degeneration4/)
+12.   [Macular Degeneration - American Optometric
+    Association](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/macular-degeneration?sso=y)
 
-9.  [Mediterranean Diet - Cleveland
-    Clinic](https://my.clevelandclinic.org/health/articles/16037-mediterranean-diet)
-
-10. [Mediterranean Diet and Incidence of AMD - Merle et
-    al.](https://pubmed.ncbi.nlm.nih.gov/30114418/)
-
-11. [Mediterranean Diet - American Academy of
+13.   [Mediterranean Diet - American Academy of
     Ophthalmology](https://www.aao.org/eye-health/news/mediterranean-diet-healthy-eating-healthier-eyes)
 
-12. [Antioxidants - Harvard School of Public
-    Health](https://www.hsph.harvard.edu/nutritionsource/antioxidants/#antioxidants%20in%20food)
+14.   [Mediterranean Diet - Cleveland
+    Clinic](https://my.clevelandclinic.org/health/articles/16037-mediterranean-diet)
 
-13. [Ultra-violet and Blue Light - American Macular Degeneration
+15.   [Mediterranean Diet and Incidence of AMD - Merle et
+    al.](https://pubmed.ncbi.nlm.nih.gov/30114418/)
+
+16.   [Retinal-scan analysis to predict AMD - Stanford
+    Medicine](https://med.stanford.edu/news/all-news/2014/11/retinal-scan-analysis-can-predict-advance-of-macular-degeneratio.html)
+
+17.  [Risk Factors for Macular Degeneration -
+    AMDF](https://www.macular.org/about-macular-degeneration/risk-factors)
+
+18.   [Ultra-violet and Blue Light - American Macular Degeneration
     Foundation](https://www.macular.org/about-macular-degeneration/risk-factors/ultra-violet-and-blue-light)
-
-14. [Don't Smoke - American Macular Degeneration
-    Foundation](https://www.macular.org/about-macular-degeneration/risk-factors/smoking)
-
-15. [Antioxidant supplement in AMD - Banerjee, Chawla, and
-    Kumar](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8404659/)
-
-16. [Dietary Antioxidants in AMD and Glaucoma -
-    Weber](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8614766/)
-
-17. [Living the Mediterranean Lifestyle - American Society for
-    Nutrition](https://nutrition.org/living-mediterranean-lifestyle/)
