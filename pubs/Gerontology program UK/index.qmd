@@ -1,9 +1,0 @@
----
-title: "UK programs"
-author: "Sara Benist"
-date: "2023-04-13"
-categories: [news, code, analysis]
-image: "image.jpg"
----
-
-tada

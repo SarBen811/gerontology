@@ -1,1 +1,1 @@
-"# gerontology" 
+This repository contains my website on Age-related Macular Degeneration as my final project for GRNT 7100E. 

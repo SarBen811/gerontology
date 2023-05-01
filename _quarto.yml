@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Gerontology"
+  title: "Age-Related Macular Degeneration"
   navbar:
     right:
       - text: Home
@@ -16,14 +16,15 @@ website:
         href: diagnosis.qmd
       - text: Prevention
         href: prevention.qmd
+      - text: References
+        href: References.qmd
       - icon: github
         href: https://github.com/SarBen811/gerontology
 format:
   html:
     theme: 
       light: cerulean
-      dark: cyborg
+      dark: sandstone
     css: styles.css
-bibliography: references.bib
 
 
